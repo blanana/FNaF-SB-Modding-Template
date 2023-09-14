@@ -1,0 +1,4 @@
+J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\Cableframe\ModActor
+J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\Cableframe\Widgets\Menu_Fog
+J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\Cableframe\Widgets\Menu_Scale
+J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\Cableframe\Widgets\Menu_Teleport

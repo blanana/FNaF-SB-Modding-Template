@@ -1,0 +1,8 @@
+J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\Markers\ModActor
+J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\Markers\Stuff\Confirm_Delete
+J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\Markers\Stuff\Functions
+J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\Markers\Stuff\Marker_Blue
+J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\Markers\Stuff\Marker_Green
+J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\Markers\Stuff\Marker_Red
+J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\Markers\Stuff\Marker_Save
+J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\Markers\Stuff\Marker_UI

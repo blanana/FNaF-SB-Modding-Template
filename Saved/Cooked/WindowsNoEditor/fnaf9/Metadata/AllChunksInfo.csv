@@ -1,0 +1,720 @@
+ChunkID, Package Name, Class Type, Hard or Soft Chunk, File Size, Other Chunks
+0,/Chowda/Blueprints/AR_Mechanics/ARTeleportDoor,Blueprint,Soft From Unassigned Package? Best Guess: /Chowda/Blueprints/AR_Mechanics/ARTeleportDoor,2591,None
+0,/Chowda/Blueprints/AR_Mechanics/ARTeleportDoor,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Chowda/Blueprints/AR_Mechanics/ARTeleportDoor,2591,None
+0,/Engine/Animation/DefaultAnimBoneCompressionSettings,AnimBoneCompressionSettings,Hard,4709,None
+0,/Engine/Animation/DefaultAnimCurveCompressionSettings,AnimCurveCompressionSettings,Hard,1046,None
+0,/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color,Material,Hard,6599,None
+0,/Engine/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane,StaticMesh,Hard,6477,None
+0,/Engine/BasicShapes/BasicShapeMaterial,Material,Hard,151673,None
+0,/Engine/BasicShapes/Cone,StaticMesh,Hard,45446,None
+0,/Engine/BasicShapes/Cube,StaticMesh,Hard,9834,None
+0,/Engine/BasicShapes/Cylinder,StaticMesh,Hard,68570,None
+0,/Engine/BasicShapes/Plane,StaticMesh,Hard,5073,None
+0,/Engine/BasicShapes/Sphere,StaticMesh,Hard,97542,None
+0,/Engine/EditorBlueprintResources/StandardMacros,Blueprint,Hard,1021,None
+0,/Engine/EditorBlueprintResources/StandardMacros,BlueprintGeneratedClass,Hard,1021,None
+0,/Engine/EditorLandscapeResources/DataLayer,LandscapeLayerInfoObject,Hard,746,None
+0,/Engine/EditorLandscapeResources/DefaultAlphaTexture,Texture2D,Hard,22947,None
+0,/Engine/EditorMaterials/Camera/CineMat,Material,Hard,59963,None
+0,/Engine/EditorMaterials/Camera/MI_CineMat_Rig,MaterialInstanceConstant,Hard,1841,None
+0,/Engine/EditorMaterials/MAT_Groups_Toggle,Texture2D,Hard,1477,None
+0,/Engine/EditorMaterials/MAT_Groups_Visibility,Texture2D,Hard,1485,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_ColorTrack,Texture2D,Hard,1509,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Anim,Texture2D,Hard,1487,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster,Texture2D,Hard,1501,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Director,Texture2D,Hard,1495,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Event,Texture2D,Hard,1489,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Fade,Texture2D,Hard,1303,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Float,Texture2D,Hard,1489,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Move,Texture2D,Hard,1487,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Slomo,Texture2D,Hard,1489,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Sound,Texture2D,Hard,1489,None
+0,/Engine/EditorMaterials/MatineeGroups/MAT_Groups_Vector,Texture2D,Hard,1491,None
+0,/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage,Texture2D,Hard,44882,None
+0,/Engine/EditorMaterials/ParticleSystems/PSysThumbnail_OOD,Texture2D,Hard,23006,None
+0,/Engine/EditorMaterials/PreviewShadowIndicator,Texture2D,Hard,1399553,None
+0,/Engine/EditorMaterials/PreviewShadowIndicatorMaterial,Material,Hard,51848,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Arm,StaticMesh,Hard,5329,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Base,StaticMesh,Hard,104935,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Body,StaticMesh,Hard,96527,None
+0,/Engine/EditorMeshes/Camera/SM_CraneRig_Mount,StaticMesh,Hard,22741,None
+0,/Engine/EditorMeshes/Camera/SM_RailRig_Mount,StaticMesh,Hard,163963,None
+0,/Engine/EditorMeshes/Camera/SM_RailRig_Track,StaticMesh,Hard,134179,None
+0,/Engine/EditorResources/BSPVertex,Texture2D,Hard,1461,None
+0,/Engine/EditorResources/S_Actor,Texture2D,Hard,88633,None
+0,/Engine/EditorResources/S_Note,Texture2D,Hard,350910,None
+0,/Engine/EditorResources/S_Solver,Texture2D,Hard,350914,None
+0,/Engine/EditorResources/S_Terrain,Texture2D,Hard,350916,None
+0,/Engine/EditorResources/S_Trigger,Texture2D,Hard,350916,None
+0,/Engine/EditorResources/SequenceRecorder/Countdown,Texture2D,Hard,148613,None
+0,/Engine/EditorResources/SequenceRecorder/RecordingIndicator,Texture2D,Hard,2199,None
+0,/Engine/EngineDamageTypes/DmgTypeBP_Environmental,Blueprint,Hard,1178,None
+0,/Engine/EngineDamageTypes/DmgTypeBP_Environmental,BlueprintGeneratedClass,Hard,1178,None
+0,/Engine/EngineDebugMaterials/DebugEditorMaterial,Material,Hard,14120,None
+0,/Engine/EngineDebugMaterials/DebugMeshMaterial,Material,Hard,22822,None
+0,/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent,Material,Hard,20789,None
+0,/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP,Material,Hard,14565,None
+0,/Engine/EngineDebugMaterials/VertexColorMaterial,Material,Hard,179302,None
+0,/Engine/EngineDebugMaterials/VolumeToRender,VolumeTexture,Hard,9133,None
+0,/Engine/EngineDebugMaterials/WireframeMaterial,Material,Hard,897855,None
+0,/Engine/EngineFonts/Faces/DroidSansFallback,FontFace,Hard,3940622,None
+0,/Engine/EngineFonts/Faces/RobotoBold,FontFace,Hard,164197,None
+0,/Engine/EngineFonts/Faces/RobotoBoldItalic,FontFace,Hard,166631,None
+0,/Engine/EngineFonts/Faces/RobotoItalic,FontFace,Hard,161491,None
+0,/Engine/EngineFonts/Faces/RobotoLight,FontFace,Hard,171303,None
+0,/Engine/EngineFonts/Faces/RobotoRegular,FontFace,Hard,159362,None
+0,/Engine/EngineFonts/Roboto,Font,Hard,3002,None
+0,/Engine/EngineFonts/RobotoDistanceField,Font,Hard,138929,None
+0,/Engine/EngineMaterials/BaseFlattenDiffuseMap,Texture2D,Hard,1849,None
+0,/Engine/EngineMaterials/BaseFlattenEmissiveMap,Texture2D,Hard,1911,None
+0,/Engine/EngineMaterials/BaseFlattenGrayscaleMap,Texture2D,Hard,6771,None
+0,/Engine/EngineMaterials/BaseFlattenMaterial,Material,Hard,97849,None
+0,/Engine/EngineMaterials/BaseFlattenNormalMap,Texture2D,Hard,1304,None
+0,/Engine/EngineMaterials/BlueNoise,Texture2D,Hard,3671221,None
+0,/Engine/EngineMaterials/DefaultBloomKernel,Texture2D,Hard,33555655,None
+0,/Engine/EngineMaterials/DefaultBokeh,Texture2D,Hard,23217,None
+0,/Engine/EngineMaterials/DefaultCalibrationColor,Texture2D,Hard,1037844,None
+0,/Engine/EngineMaterials/DefaultCalibrationGrayscale,Texture2D,Hard,8295606,None
+0,/Engine/EngineMaterials/DefaultDeferredDecalMaterial,Material,Hard,198134,None
+0,/Engine/EngineMaterials/DefaultDiffuse,Texture2D,Hard,700383,None
+0,/Engine/EngineMaterials/DefaultLightFunctionMaterial,Material,Hard,45732,None
+0,/Engine/EngineMaterials/DefaultMaterial,Material,Hard,291272,None
+0,/Engine/EngineMaterials/DefaultNormal,Texture2D,Hard,1399764,None
+0,/Engine/EngineMaterials/DefaultPhysicalMaterial,PhysicalMaterial,Hard,659,None
+0,/Engine/EngineMaterials/DefaultPostProcessMaterial,Material,Hard,11900,None
+0,/Engine/EngineMaterials/DefaultTextMaterialOpaque,Material,Hard,63848,None
+0,/Engine/EngineMaterials/DefaultWhiteGrid,Texture2D,Hard,12151,None
+0,/Engine/EngineMaterials/DefaultWhiteGrid_Low,Texture2D,Hard,979,None
+0,/Engine/EngineMaterials/EmissiveMeshMaterial,Material,Hard,23782,None
+0,/Engine/EngineMaterials/GizmoMaterial,Material,Hard,13518,None
+0,/Engine/EngineMaterials/Good64x64TilingNoiseHighFreq,Texture2D,Hard,5388,None
+0,/Engine/EngineMaterials/InvalidLightmapSettings,Texture2D,Hard,176077,None
+0,/Engine/EngineMaterials/M_InvalidLightmapSettings,Material,Hard,60794,None
+0,/Engine/EngineMaterials/MiniFont,Texture2D,Hard,3172,None
+0,/Engine/EngineMaterials/PhAT_JointLimitMaterial,Material,Hard,30550,None
+0,/Engine/EngineMaterials/PPM_DefaultCalibrationColor,Material,Hard,7849,None
+0,/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale,Material,Hard,7644,None
+0,/Engine/EngineMaterials/PreintegratedSkinBRDF,Texture2D,Hard,263125,None
+0,/Engine/EngineMaterials/RemoveSurfaceMaterial,Material,Hard,5235,None
+0,/Engine/EngineMaterials/T_Default_Material_Grid_M,Texture2D,Hard,350917,None
+0,/Engine/EngineMaterials/T_Default_Material_Grid_N,Texture2D,Hard,88996,None
+0,/Engine/EngineMaterials/WeightMapPlaceholderTexture,Texture2D,Hard,1049,None
+0,/Engine/EngineMaterials/Widget3DPassThrough,Material,Hard,23095,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Masked,MaterialInstanceConstant,Hard,34084,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided,MaterialInstanceConstant,Hard,33929,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Opaque,MaterialInstanceConstant,Hard,13808,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided,MaterialInstanceConstant,Hard,6787,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Translucent,MaterialInstanceConstant,Hard,23916,None
+0,/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided,MaterialInstanceConstant,Hard,21638,None
+0,/Engine/EngineMaterials/WorldGridMaterial,Material,Hard,1340336,None
+0,/Engine/EngineMeshes/Cylinder,StaticMesh,Hard,23018,None
+0,/Engine/EngineMeshes/Sphere,StaticMesh,Hard,51465,None
+0,/Engine/EngineResources/Black,Texture2D,Hard,1718,None
+0,/Engine/EngineResources/DefaultTexture,Texture2D,Hard,12048,None
+0,/Engine/EngineResources/DefaultTextureCube,TextureCube,Hard,66622,None
+0,/Engine/EngineResources/DefaultVolumeTexture,VolumeTexture,Hard,1333,None
+0,/Engine/EngineResources/DefaultVolumeTexture2D,Texture2D,Hard,1413,None
+0,/Engine/EngineResources/GradientTexture0,Texture2D,Hard,6861,None
+0,/Engine/EngineResources/WhiteSquareTexture,Texture2D,Hard,1744,None
+0,/Engine/EngineSky/VolumetricClouds/CloudGradientTexture,Texture2D,Hard,1860,None
+0,/Engine/EngineSky/VolumetricClouds/CloudWeatherTexture,Texture2D,Hard,132219,None
+0,/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud,Material,Hard,190795,None
+0,/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst,MaterialInstanceConstant,Hard,3035,None
+0,/Engine/EngineSky/VolumetricClouds/T_NoiseErosion,Texture2D,Hard,23354,None
+0,/Engine/EngineSky/VolumetricClouds/T_NoiseShape64,Texture2D,Hard,176514,None
+0,/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32,VolumeTexture,Hard,17791,None
+0,/Engine/EngineSky/VolumetricClouds/T_VolumeNoiseShape64,VolumeTexture,Hard,132475,None
+0,/Engine/EngineSounds/Master,SoundClass,Hard,870,None
+0,/Engine/EngineSounds/Submixes/MasterEQEffectPreset,SubmixEffectSubmixEQPreset,Hard,678,None
+0,/Engine/EngineSounds/Submixes/MasterEQSubmixDefault,SoundSubmix,Hard,1164,None
+0,/Engine/EngineSounds/Submixes/MasterReverbEffectPreset,SubmixEffectReverbFastPreset,Hard,682,None
+0,/Engine/EngineSounds/Submixes/MasterReverbSubmixDefault,SoundSubmix,Hard,1255,None
+0,/Engine/EngineSounds/Submixes/MasterSubmixDefault,SoundSubmix,Hard,1062,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity,MaterialFunction,Hard,1085,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential,MaterialFunction,Hard,1059,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade,MaterialFunction,Hard,1045,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec,MaterialFunction,Hard,792,None
+0,/Engine/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness,MaterialFunction,Hard,786,None
+0,/Engine/Functions/Engine_MaterialFunctions02/ObjectLocalBounds,MaterialFunction,Hard,852,None
+0,/Engine/Functions/Engine_MaterialFunctions02/SafeNormalize,MaterialFunction,Hard,1123,None
+0,/Engine/Functions/Engine_MaterialFunctions02/ScreenResolution,MaterialFunction,Hard,987,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Texturing/ScreenAlignedPixelToPixelUVs,MaterialFunction,Hard,1161,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components,MaterialFunction,Hard,1050,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components,MaterialFunction,Hard,1050,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components,MaterialFunction,Hard,1050,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector,MaterialFunction,Hard,982,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2,MaterialFunction,Hard,972,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3,MaterialFunction,Hard,972,None
+0,/Engine/Functions/Engine_MaterialFunctions02/Utility/VectorLength,MaterialFunction,Hard,945,None
+0,/Engine/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW,MaterialFunction,Hard,988,None
+0,/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset,MaterialFunction,Hard,1039,None
+0,/Engine/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale,MaterialFunction,Hard,958,None
+0,/Engine/Maps/Entry,World,Hard,12240,None
+0,/Engine/Maps/Entry_BuiltData,MapBuildDataRegistry,Hard,26919,None
+0,/Engine/Maps/Templates/Thumbnails/Default,Texture2D,Hard,161280,None
+0,/Engine/Maps/Templates/Thumbnails/TimeOfDay,Texture2D,Hard,161284,None
+0,/Engine/Maps/Templates/Thumbnails/VR-Basic,Texture2D,Hard,161282,None
+0,/Engine/MobileResources/HUD/AnalogHat,Texture2D,Hard,2101,None
+0,/Engine/MobileResources/HUD/DefaultVirtualJoysticks,TouchInterface,Hard,2634,None
+0,/Engine/MobileResources/HUD/LeftVirtualJoystickOnly,TouchInterface,Hard,2057,None
+0,/Engine/MobileResources/HUD/MobileHUDButton1_off,Texture2D,Hard,3147,None
+0,/Engine/MobileResources/HUD/MobileHUDButton1_on,Texture2D,Hard,3145,None
+0,/Engine/MobileResources/HUD/MobileHUDButton2_off,Texture2D,Hard,5195,None
+0,/Engine/MobileResources/HUD/MobileHUDButton2_on,Texture2D,Hard,5193,None
+0,/Engine/MobileResources/HUD/MobileHUDButton3,Texture2D,Hard,2115,None
+0,/Engine/MobileResources/HUD/MobileHUDButtonFire,Texture2D,Hard,5193,None
+0,/Engine/MobileResources/HUD/MobileHUDDirectionPad,Texture2D,Hard,17485,None
+0,/Engine/MobileResources/HUD/MobileHUDDirectionPad2,Texture2D,Hard,33871,None
+0,/Engine/MobileResources/HUD/MobileHUDDirectionPad3,Texture2D,Hard,33871,None
+0,/Engine/MobileResources/HUD/MobileHUDDirectionStick,Texture2D,Hard,5201,None
+0,/Engine/MobileResources/HUD/T_Castle_ThumbstickInner,Texture2D,Hard,17636,None
+0,/Engine/MobileResources/HUD/T_Castle_ThumbstickOutter,Texture2D,Hard,66790,None
+0,/Engine/MobileResources/HUD/VirtualJoystick_Background,Texture2D,Hard,263400,None
+0,/Engine/MobileResources/HUD/VirtualJoystick_Thumb,Texture2D,Hard,17630,None
+0,/Engine/MobileResources/T_MobileControls_texture,Texture2D,Hard,263403,None
+0,/Engine/MobileResources/T_MobileMenu2,Texture2D,Hard,263225,None
+0,/Engine/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x,Texture2D,Hard,7709,None
+0,/Engine/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x,Texture2D,Hard,17626,None
+0,/Engine/Tutorial/ContentIntroCurve,CurveFloat,Hard,963,None
+0,/Engine/VREditor/LaserPointer/VR_LaserPower_01,Texture2D,Hard,176069,None
+0,/Engine/VREditor/TransformGizmo/BoundingBoxCorner,StaticMesh,Hard,19797,None
+0,/Engine/VREditor/TransformGizmo/BoundingBoxEdge,StaticMesh,Hard,10713,None
+0,/Engine/VREditor/TransformGizmo/Main,Material,Hard,22206,None
+0,/Engine/VREditor/TransformGizmo/PlaneTranslationHandle,StaticMesh,Hard,17875,None
+0,/Engine/VREditor/TransformGizmo/SM_Sequencer_Key,StaticMesh,Hard,68545,None
+0,/Engine/VREditor/TransformGizmo/SM_Sequencer_Node,StaticMesh,Hard,13123,None
+0,/Engine/VREditor/TransformGizmo/TransformGizmoMaterial,Material,Hard,7484,None
+0,/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial,Material,Hard,21800,None
+0,/Engine/VREditor/TransformGizmo/Xray,Material,Hard,31406,None
+0,/Game/Animations/BurnTrap/Burntrap_Death,AnimSequence,Soft From Unassigned Package? Best Guess: /Game/Animations/BurnTrap/Burntrap_Death,1766,None
+0,/Game/Animations/BurnTrap/Burntrap_Run_Full,AnimSequence,Soft From Unassigned Package? Best Guess: /Game/Animations/BurnTrap/Burntrap_Run_Full,1772,None
+0,/Game/Animations/Freddy/Freddy_Jumpscare,AnimSequence,Soft From Unassigned Package? Best Guess: /Game/Animations/Freddy/Freddy_Jumpscare,1768,None
+0,/Game/Animations/Freddy/Freddy_Search_Table_L_Out,AnimSequence,Soft From Unassigned Package? Best Guess: /Game/Animations/Freddy/Freddy_Search_Table_L_Out,1786,None
+0,/Game/Blueprints/AI/Freddy/FreddyAttackBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Freddy/FreddyAttackBT,633,None
+0,/Game/Blueprints/AI/LilMusicMan/LMM_Jumpscare,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/LilMusicMan/LMM_Jumpscare,3445,None
+0,/Game/Blueprints/AI/LilMusicMan/LMM_Jumpscare,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/LilMusicMan/LMM_Jumpscare,3445,None
+0,/Game/Blueprints/AI/MoonMan/MoonMan_Jumpscare,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/MoonMan/MoonMan_Jumpscare,2526,None
+0,/Game/Blueprints/AI/MoonMan/MoonMan_Jumpscare,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/MoonMan/MoonMan_Jumpscare,2526,None
+0,/Game/Blueprints/AI/Seeker/AISeekerBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/AISeekerBT,625,None
+0,/Game/Blueprints/AI/Seeker/BurnTrap/AISeeker_BurntrapOfficeBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/BurnTrap/AISeeker_BurntrapOfficeBT,664,None
+0,/Game/Blueprints/AI/Seeker/BurnTrap/BurnTrap,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/Stuff/AI/Burntrap/Burntrap->/Game/Blueprints/AI/Seeker/BurnTrap/BurnTrap,4999,None
+0,/Game/Blueprints/AI/Seeker/BurnTrap/BurnTrap,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/Stuff/AI/Burntrap/Burntrap->/Game/Blueprints/AI/Seeker/BurnTrap/BurnTrap,4999,None
+0,/Game/Blueprints/AI/Seeker/BurnTrap/TentacleController,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/BurnTrap/TentacleController,3696,None
+0,/Game/Blueprints/AI/Seeker/BurnTrap/TentacleController,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/BurnTrap/TentacleController,3696,None
+0,/Game/Blueprints/AI/Seeker/Chica/AIChicaBB,BlackboardData,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/Chica/AIChicaBB,2980,None
+0,/Game/Blueprints/AI/Seeker/Chica/AIChicaBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/Chica/AIChicaBT,629,None
+0,/Game/Blueprints/AI/Seeker/Chica/Chica,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/Chica/Chica,2491,None
+0,/Game/Blueprints/AI/Seeker/Chica/Chica,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/Chica/Chica,2491,None
+0,/Game/Blueprints/AI/Seeker/DBG_SeekerWidget,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/DBG_SeekerWidget,1819,None
+0,/Game/Blueprints/AI/Seeker/DBG_SeekerWidget,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/DBG_SeekerWidget,1819,None
+0,/Game/Blueprints/AI/Seeker/Endo/Endo,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/Endo/Endo,4639,None
+0,/Game/Blueprints/AI/Seeker/Endo/Endo,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/Endo/Endo,4639,None
+0,/Game/Blueprints/AI/Seeker/Endo/EndoBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/Endo/EndoBT,622,None
+0,/Game/Blueprints/AI/Seeker/Endo/EndoFreezeBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/Endo/EndoFreezeBT,634,None
+0,/Game/Blueprints/AI/Seeker/HideSpotSearchBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/HideSpotSearchBT,637,None
+0,/Game/Blueprints/AI/Seeker/Monty/Monty,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/Stuff/GigaChase/ModActor->/Game/Mods/Test/Stuff/GigaChase/Actors/Spawner->/Game/Blueprints/AI/Seeker/Monty/Monty,2491,None
+0,/Game/Blueprints/AI/Seeker/Monty/Monty,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/Stuff/GigaChase/ModActor->/Game/Mods/Test/Stuff/GigaChase/Actors/Spawner->/Game/Blueprints/AI/Seeker/Monty/Monty,2491,None
+0,/Game/Blueprints/AI/Seeker/Monty/MontyBoss/AIMontyBossBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/Monty/MontyBoss/AIMontyBossBT,647,None
+0,/Game/Blueprints/AI/Seeker/Monty/MontyBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/Monty/MontyBT,625,None
+0,/Game/Blueprints/AI/Seeker/Monty/MontyShowtime/MontyShowtimeBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/Stuff/GigaChase/ModActor->/Game/Mods/Test/Stuff/GigaChase/Actors/Spawner->/Game/Blueprints/AI/Seeker/Monty/MontyShowtime/MontyShowtimeBT,655,None
+0,/Game/Blueprints/AI/Seeker/Monty/MontyShowtime/MontyShowtimeMission,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/Monty/MontyShowtime/MontyShowtimeMission,2550,None
+0,/Game/Blueprints/AI/Seeker/Monty/MontyShowtime/MontyShowtimeMission,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/Monty/MontyShowtime/MontyShowtimeMission,2550,None
+0,/Game/Blueprints/AI/Seeker/Monty/MontyStandard,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/Monty/MontyStandard,3769,None
+0,/Game/Blueprints/AI/Seeker/Monty/MontyStandard,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/Monty/MontyStandard,3769,None
+0,/Game/Blueprints/AI/Seeker/MoonMan/Moonman,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/Missions/Daycare->/Game/Blueprints/AI/Seeker/MoonMan/Moonman,3753,None
+0,/Game/Blueprints/AI/Seeker/MoonMan/Moonman,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/Missions/Daycare->/Game/Blueprints/AI/Seeker/MoonMan/Moonman,3753,None
+0,/Game/Blueprints/AI/Seeker/MoonMan/MoonmanFollowSplineBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/MoonMan/MoonmanFollowSplineBT,655,None
+0,/Game/Blueprints/AI/Seeker/MoonMan/MoonmanPhase1BT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/MoonMan/MoonmanPhase1BT,643,None
+0,/Game/Blueprints/AI/Seeker/MoonMan/MoonmanPhase2BT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Seeker/MoonMan/MoonmanPhase2BT,643,None
+0,/Game/Blueprints/AI/Seeker/MoonMan/Sunman,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/MoonMan/Sunman,3985,None
+0,/Game/Blueprints/AI/Seeker/MoonMan/Sunman,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/MoonMan/Sunman,3985,None
+0,/Game/Blueprints/AI/Seeker/Roxy/Roxy,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/Roxy/Roxy,2487,None
+0,/Game/Blueprints/AI/Seeker/Roxy/Roxy,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/Roxy/Roxy,2487,None
+0,/Game/Blueprints/AI/Seeker/ShatteredChica/shatteredChica,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/ShatteredChica/shatteredChica,3917,None
+0,/Game/Blueprints/AI/Seeker/ShatteredChica/shatteredChica,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/ShatteredChica/shatteredChica,3917,None
+0,/Game/Blueprints/AI/Seeker/ShatteredMonty/shatteredMonty,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/ShatteredMonty/shatteredMonty,2527,None
+0,/Game/Blueprints/AI/Seeker/ShatteredMonty/shatteredMonty,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/ShatteredMonty/shatteredMonty,2527,None
+0,/Game/Blueprints/AI/Seeker/ShatteredRoxy/shatteredRoxy,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/ShatteredRoxy/shatteredRoxy,2523,None
+0,/Game/Blueprints/AI/Seeker/ShatteredRoxy/shatteredRoxy,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/ShatteredRoxy/shatteredRoxy,2523,None
+0,/Game/Blueprints/AI/Seeker/TangleBlob/TangleBlob,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/TangleBlob/TangleBlob,2511,None
+0,/Game/Blueprints/AI/Seeker/TangleBlob/TangleBlob,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/TangleBlob/TangleBlob,2511,None
+0,/Game/Blueprints/AI/Seeker/Vanessa/Vanessa,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/Vanessa/Vanessa,3889,None
+0,/Game/Blueprints/AI/Seeker/Vanessa/Vanessa,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Seeker/Vanessa/Vanessa,3889,None
+0,/Game/Blueprints/AI/StaffBot/CautionBot/CautionBot,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/CautionBot/CautionBot,2513,None
+0,/Game/Blueprints/AI/StaffBot/CautionBot/CautionBot,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/CautionBot/CautionBot,2513,None
+0,/Game/Blueprints/AI/StaffBot/CautionBot/CautionBotBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/CautionBot/CautionBotBT,642,None
+0,/Game/Blueprints/AI/StaffBot/ChefBot/ChefBot,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/ChefBot/ChefBot,2501,None
+0,/Game/Blueprints/AI/StaffBot/ChefBot/ChefBot,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/ChefBot/ChefBot,2501,None
+0,/Game/Blueprints/AI/StaffBot/MapBot/MapBot,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/MapBot/MapBot,2497,None
+0,/Game/Blueprints/AI/StaffBot/MapBot/MapBot,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/MapBot/MapBot,2497,None
+0,/Game/Blueprints/AI/StaffBot/MapBot/MapBot_Warehouse,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/MapBot/MapBot_Warehouse,2527,None
+0,/Game/Blueprints/AI/StaffBot/MapBot/MapBot_Warehouse,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/MapBot/MapBot_Warehouse,2527,None
+0,/Game/Blueprints/AI/StaffBot/PartyPassBot/StaffBotPartyPass,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/PartyPassBot/StaffBotPartyPass,2536,None
+0,/Game/Blueprints/AI/StaffBot/PartyPassBot/StaffBotPartyPass,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/PartyPassBot/StaffBotPartyPass,2536,None
+0,/Game/Blueprints/AI/StaffBot/Racer/StaffBotRacer,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/Racer/StaffBotRacer,2517,None
+0,/Game/Blueprints/AI/StaffBot/Racer/StaffBotRacer,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/Racer/StaffBotRacer,2517,None
+0,/Game/Blueprints/AI/StaffBot/Security/Patrol/StaffBotSecurityPatrol,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/Stuff/GigaChase/ModActor->/Game/Mods/Test/Stuff/GigaChase/Actors/Spawner->/Game/Blueprints/AI/StaffBot/Security/Patrol/StaffBotSecurityPatrol,2641,None
+0,/Game/Blueprints/AI/StaffBot/Security/Patrol/StaffBotSecurityPatrol,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/Stuff/GigaChase/ModActor->/Game/Mods/Test/Stuff/GigaChase/Actors/Spawner->/Game/Blueprints/AI/StaffBot/Security/Patrol/StaffBotSecurityPatrol,2641,None
+0,/Game/Blueprints/AI/StaffBot/Security/Patrol/StaffBotSecurityPatrol_Nightmarrion,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/Security/Patrol/StaffBotSecurityPatrol_Nightmarrion,2593,None
+0,/Game/Blueprints/AI/StaffBot/Security/Patrol/StaffBotSecurityPatrol_Nightmarrion,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/Security/Patrol/StaffBotSecurityPatrol_Nightmarrion,2593,None
+0,/Game/Blueprints/AI/StaffBot/Security/Patrol/StaffBotSecurityPatrolBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/StaffBot/Security/Patrol/StaffBotSecurityPatrolBT,671,None
+0,/Game/Blueprints/AI/StaffBot/Worker/ClapBot/ClapBot,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/Worker/ClapBot/ClapBot,2508,None
+0,/Game/Blueprints/AI/StaffBot/Worker/ClapBot/ClapBot,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/Worker/ClapBot/ClapBot,2508,None
+0,/Game/Blueprints/AI/StaffBot/Worker/Cleaning/StaffBotCleaning,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/Worker/Cleaning/StaffBotCleaning,2536,None
+0,/Game/Blueprints/AI/StaffBot/Worker/Cleaning/StaffBotCleaning,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/Worker/Cleaning/StaffBotCleaning,2536,None
+0,/Game/Blueprints/AI/StaffBot/Worker/Entertainer/StaffBotTalent,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/Worker/Entertainer/StaffBotTalent,2533,None
+0,/Game/Blueprints/AI/StaffBot/Worker/Entertainer/StaffBotTalent,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/StaffBot/Worker/Entertainer/StaffBotTalent,2533,None
+0,/Game/Blueprints/AI/Tasks/Alert/SendAlert,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/Stuff/GigaChase/ModActor->/Game/Mods/Test/Stuff/GigaChase/Actors/Spawner->/Game/Mods/Test/Stuff/GigaChase/AI/Alert_BT->/Game/Blueprints/AI/Tasks/Alert/SendAlert,1143,None
+0,/Game/Blueprints/AI/Tasks/Alert/SendAlert,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/Stuff/GigaChase/ModActor->/Game/Mods/Test/Stuff/GigaChase/Actors/Spawner->/Game/Mods/Test/Stuff/GigaChase/AI/Alert_BT->/Game/Blueprints/AI/Tasks/Alert/SendAlert,1143,None
+0,/Game/Blueprints/AI/Tasks/Alert/StopAlert,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/Stuff/GigaChase/ModActor->/Game/Mods/Test/Stuff/GigaChase/Actors/Spawner->/Game/Mods/Test/Stuff/GigaChase/AI/Alert_BT->/Game/Blueprints/AI/Tasks/Alert/StopAlert,1143,None
+0,/Game/Blueprints/AI/Tasks/Alert/StopAlert,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/Stuff/GigaChase/ModActor->/Game/Mods/Test/Stuff/GigaChase/Actors/Spawner->/Game/Mods/Test/Stuff/GigaChase/AI/Alert_BT->/Game/Blueprints/AI/Tasks/Alert/StopAlert,1143,None
+0,/Game/Blueprints/AI/Vanny/EndlessChaseBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModActor->/Game/Mods/HardMode/Missions/LostAndFound->/Game/Blueprints/AI/Vanny/EndlessChaseBT,632,None
+0,/Game/Blueprints/AI/Vanny/LostAndFound/Vanny_LostAndFound,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Vanny/LostAndFound/Vanny_LostAndFound,2536,None
+0,/Game/Blueprints/AI/Vanny/LostAndFound/Vanny_LostAndFound,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Vanny/LostAndFound/Vanny_LostAndFound,2536,None
+0,/Game/Blueprints/AI/Vanny/LostAndFound/VannyLostAndFoundBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/AI/Vanny/LostAndFound/VannyLostAndFoundBT,655,None
+0,/Game/Blueprints/AI/Vanny/Vanny,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Vanny/Vanny,3599,None
+0,/Game/Blueprints/AI/Vanny/Vanny,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/AI/Vanny/Vanny,3599,None
+0,/Game/Blueprints/Blocker/PortableFence_RemoveAfterMission,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Blocker/PortableFence_RemoveAfterMission,2675,None
+0,/Game/Blueprints/Blocker/PortableFence_RemoveAfterMission,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Blocker/PortableFence_RemoveAfterMission,2675,None
+0,/Game/Blueprints/Button/BasicButton,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Button/BasicButton,2504,None
+0,/Game/Blueprints/Button/BasicButton,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Button/BasicButton,2504,None
+0,/Game/Blueprints/Button/BasicToggleButton,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Button/BasicToggleButton,2610,None
+0,/Game/Blueprints/Button/BasicToggleButton,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Button/BasicToggleButton,2610,None
+0,/Game/Blueprints/ChestBP,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/ChestBP,2664,None
+0,/Game/Blueprints/ChestBP,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/ChestBP,2664,None
+0,/Game/Blueprints/CutSceneActors/CutSceneActor_Base,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/CutSceneActors/CutSceneActor_Base,2533,None
+0,/Game/Blueprints/CutSceneActors/CutSceneActor_Base,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/CutSceneActors/CutSceneActor_Base,2533,None
+0,/Game/Blueprints/CutSceneActors/CutSceneActor_Staffbot,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/CutSceneActors/CutSceneActor_Staffbot,2545,None
+0,/Game/Blueprints/CutSceneActors/CutSceneActor_Staffbot,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/CutSceneActors/CutSceneActor_Staffbot,2545,None
+0,/Game/Blueprints/CutSceneActors/CutSceneActor_Vanessa,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/CutSceneActors/CutSceneActor_Vanessa,2542,None
+0,/Game/Blueprints/CutSceneActors/CutSceneActor_Vanessa,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/CutSceneActors/CutSceneActor_Vanessa,2542,None
+0,/Game/Blueprints/FazerBlast/BP_ReturnFazerBlaster,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/FazerBlast/BP_ReturnFazerBlaster,3863,None
+0,/Game/Blueprints/FazerBlast/BP_ReturnFazerBlaster,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/FazerBlast/BP_ReturnFazerBlaster,3863,None
+0,/Game/Blueprints/FreddyUpgrades/FreddyUpgradeRequirementCoponent,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/FreddyUpgrades/FreddyUpgradeRequirementCoponent,1457,None
+0,/Game/Blueprints/FreddyUpgrades/FreddyUpgradeRequirementCoponent,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/FreddyUpgrades/FreddyUpgradeRequirementCoponent,1457,None
+0,/Game/Blueprints/HeartDropBP,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/HeartDropBP,2497,None
+0,/Game/Blueprints/HeartDropBP,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/HeartDropBP,2497,None
+0,/Game/Blueprints/Hide/HideInActor,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Hide/HideInActor,2710,None
+0,/Game/Blueprints/Hide/HideInActor,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Hide/HideInActor,2710,None
+0,/Game/Blueprints/Hologram/FNAF_Mesh/BP_FNAF_Hologram,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Hologram/FNAF_Mesh/BP_FNAF_Hologram,2761,None
+0,/Game/Blueprints/Hologram/FNAF_Mesh/BP_FNAF_Hologram,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Hologram/FNAF_Mesh/BP_FNAF_Hologram,2761,None
+0,/Game/Blueprints/Hologram/FNAF_Mesh/RIG_Montgomery_Gator_withProp_HoloMesh,SkeletalMesh,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Hologram/FNAF_Mesh/RIG_Montgomery_Gator_withProp_HoloMesh,3255249,None
+0,/Game/Blueprints/MissionTriggers/FreddyFirstAidTrigger,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/MissionTriggers/FreddyFirstAidTrigger,2860,None
+0,/Game/Blueprints/MissionTriggers/FreddyFirstAidTrigger,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/MissionTriggers/FreddyFirstAidTrigger,2860,None
+0,/Game/Blueprints/MissionTriggers/PlaySequenceTrigger_EasterEggKitchen,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/MissionTriggers/PlaySequenceTrigger_EasterEggKitchen,3810,None
+0,/Game/Blueprints/MissionTriggers/PlaySequenceTrigger_EasterEggKitchen,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/MissionTriggers/PlaySequenceTrigger_EasterEggKitchen,3810,None
+0,/Game/Blueprints/MoonManDistortionActor1,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/MoonManDistortionActor1,3652,None
+0,/Game/Blueprints/MoonManDistortionActor1,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/MoonManDistortionActor1,3652,None
+0,/Game/Blueprints/Objects/Actors/MoonmanDeathCharacter,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Actors/MoonmanDeathCharacter,2538,None
+0,/Game/Blueprints/Objects/Actors/MoonmanDeathCharacter,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Actors/MoonmanDeathCharacter,2538,None
+0,/Game/Blueprints/Objects/Actors/MoonManSequenceActor,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Actors/MoonManSequenceActor,2539,None
+0,/Game/Blueprints/Objects/Actors/MoonManSequenceActor,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Actors/MoonManSequenceActor,2539,None
+0,/Game/Blueprints/Objects/Actors/Overtime_SaveGameActor,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Actors/Overtime_SaveGameActor,2545,None
+0,/Game/Blueprints/Objects/Actors/Overtime_SaveGameActor,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Actors/Overtime_SaveGameActor,2545,None
+0,/Game/Blueprints/Objects/Actors/SaveGameActor,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Actors/SaveGameActor,2706,None
+0,/Game/Blueprints/Objects/Actors/SaveGameActor,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Actors/SaveGameActor,2706,None
+0,/Game/Blueprints/Objects/BallCannon/BallCannon,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/BallCannon/BallCannon,2509,None
+0,/Game/Blueprints/Objects/BallCannon/BallCannon,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/BallCannon/BallCannon,2509,None
+0,/Game/Blueprints/Objects/BallCannon/BallCannonOffice,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/BallCannon/BallCannonOffice,2531,None
+0,/Game/Blueprints/Objects/BallCannon/BallCannonOffice,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/BallCannon/BallCannonOffice,2531,None
+0,/Game/Blueprints/Objects/BallCannon/MontyBossManager,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/BallCannon/MontyBossManager,2964,None
+0,/Game/Blueprints/Objects/BallCannon/MontyBossManager,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/BallCannon/MontyBossManager,2964,None
+0,/Game/Blueprints/Objects/Collectibles/BackstagePass,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Collectibles/BackstagePass,3432,None
+0,/Game/Blueprints/Objects/Collectibles/BackstagePass,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Collectibles/BackstagePass,3432,None
+0,/Game/Blueprints/Objects/Collectibles/Collectible,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/ModActor->/Game/Blueprints/Objects/Collectibles/Collectible,3488,None
+0,/Game/Blueprints/Objects/Collectibles/Collectible,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/ModActor->/Game/Blueprints/Objects/Collectibles/Collectible,3488,None
+0,/Game/Blueprints/Objects/Collectibles/FlashBeaconCollect,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Collectibles/FlashBeaconCollect,3452,None
+0,/Game/Blueprints/Objects/Collectibles/FlashBeaconCollect,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Collectibles/FlashBeaconCollect,3452,None
+0,/Game/Blueprints/Objects/Collectibles/LaserGunCollectible,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Collectibles/LaserGunCollectible,3463,None
+0,/Game/Blueprints/Objects/Collectibles/LaserGunCollectible,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Collectibles/LaserGunCollectible,3463,None
+0,/Game/Blueprints/Objects/Collectibles/LaserGunCollectible_Prize,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Collectibles/LaserGunCollectible_Prize,3487,None
+0,/Game/Blueprints/Objects/Collectibles/LaserGunCollectible_Prize,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Collectibles/LaserGunCollectible_Prize,3487,None
+0,/Game/Blueprints/Objects/Collectibles/PresentCollectible,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Collectibles/PresentCollectible,2539,None
+0,/Game/Blueprints/Objects/Collectibles/PresentCollectible,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Collectibles/PresentCollectible,2539,None
+0,/Game/Blueprints/Objects/Daycare/DaycareGenerator,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Daycare/DaycareGenerator,3517,None
+0,/Game/Blueprints/Objects/Daycare/DaycareGenerator,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Daycare/DaycareGenerator,3517,None
+0,/Game/Blueprints/Objects/Daycare/DaycareGeneratorSetup,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Daycare/DaycareGeneratorSetup,3529,None
+0,/Game/Blueprints/Objects/Daycare/DaycareGeneratorSetup,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Daycare/DaycareGeneratorSetup,3529,None
+0,/Game/Blueprints/Objects/Daycare/DaycarePenDoors,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Daycare/DaycarePenDoors,2595,None
+0,/Game/Blueprints/Objects/Daycare/DaycarePenDoors,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Daycare/DaycarePenDoors,2595,None
+0,/Game/Blueprints/Objects/Daycare/SecurityOffice_Daycare,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/Missions/Daycare->/Game/Blueprints/Objects/Daycare/SecurityOffice_Daycare,5142,None
+0,/Game/Blueprints/Objects/Daycare/SecurityOffice_Daycare,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/Missions/Daycare->/Game/Blueprints/Objects/Daycare/SecurityOffice_Daycare,5142,None
+0,/Game/Blueprints/Objects/Equippables/EQ_Flashbeacon,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Equippables/EQ_Flashbeacon,3526,None
+0,/Game/Blueprints/Objects/Equippables/EQ_Flashbeacon,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Equippables/EQ_Flashbeacon,3526,None
+0,/Game/Blueprints/Objects/Equippables/EQ_LaserGun,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Equippables/EQ_LaserGun,3487,None
+0,/Game/Blueprints/Objects/Equippables/EQ_LaserGun,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Equippables/EQ_LaserGun,3487,None
+0,/Game/Blueprints/Objects/FlashlightRecharge/FlashlightRechargeStation,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/FlashlightRecharge/FlashlightRechargeStation,2566,None
+0,/Game/Blueprints/Objects/FlashlightRecharge/FlashlightRechargeStation,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/FlashlightRecharge/FlashlightRechargeStation,2566,None
+0,/Game/Blueprints/Objects/GeneratorBase_BP,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/GeneratorBase_BP,3710,None
+0,/Game/Blueprints/Objects/GeneratorBase_BP,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/GeneratorBase_BP,3710,None
+0,/Game/Blueprints/Objects/GolfBall/InteractibleGolfBall,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/GolfBall/InteractibleGolfBall,2541,None
+0,/Game/Blueprints/Objects/GolfBall/InteractibleGolfBall,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/GolfBall/InteractibleGolfBall,2541,None
+0,/Game/Blueprints/Objects/Kitchen/KitchenBotPizzaStation,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Kitchen/KitchenBotPizzaStation,2546,None
+0,/Game/Blueprints/Objects/Kitchen/KitchenBotPizzaStation,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Kitchen/KitchenBotPizzaStation,2546,None
+0,/Game/Blueprints/Objects/Kitchen/PizzaMakerManager,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Kitchen/PizzaMakerManager,2531,None
+0,/Game/Blueprints/Objects/Kitchen/PizzaMakerManager,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Kitchen/PizzaMakerManager,2531,None
+0,/Game/Blueprints/Objects/LMMDestroyer,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/LMMDestroyer,2508,None
+0,/Game/Blueprints/Objects/LMMDestroyer,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/LMMDestroyer,2508,None
+0,/Game/Blueprints/Objects/LobbyMainEntrance,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/LobbyMainEntrance,2523,None
+0,/Game/Blueprints/Objects/LobbyMainEntrance,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/LobbyMainEntrance,2523,None
+0,/Game/Blueprints/Objects/Mazercise/MazerciseRowButton,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Mazercise/MazerciseRowButton,2715,None
+0,/Game/Blueprints/Objects/Mazercise/MazerciseRowButton,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Mazercise/MazerciseRowButton,2715,None
+0,/Game/Blueprints/Objects/PowerStation/PowerStation_Actor,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/PowerStation/PowerStation_Actor,2539,None
+0,/Game/Blueprints/Objects/PowerStation/PowerStation_Actor,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/PowerStation/PowerStation_Actor,2539,None
+0,/Game/Blueprints/Objects/PowerStation/PowerStationPlayerInteractible,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/PowerStation/PowerStationPlayerInteractible,2575,None
+0,/Game/Blueprints/Objects/PowerStation/PowerStationPlayerInteractible,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/PowerStation/PowerStationPlayerInteractible,2575,None
+0,/Game/Blueprints/Objects/Sewer/Sewer_Generator,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Sewer/Sewer_Generator,2766,None
+0,/Game/Blueprints/Objects/Sewer/Sewer_Generator,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/Sewer/Sewer_Generator,2766,None
+0,/Game/Blueprints/Objects/SodaBottles/SodaBottle,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/SodaBottles/SodaBottle,2514,None
+0,/Game/Blueprints/Objects/SodaBottles/SodaBottle,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/SodaBottles/SodaBottle,2514,None
+0,/Game/Blueprints/Objects/SodaBottles/SodaBottleSpill,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/SodaBottles/SodaBottleSpill,3444,None
+0,/Game/Blueprints/Objects/SodaBottles/SodaBottleSpill,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Objects/SodaBottles/SodaBottleSpill,3444,None
+0,/Game/Blueprints/Objects/Vents/BP_UnscrewVent,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Mods/HardMode/Missions/LostAndFound->/Game/Blueprints/Objects/Vents/BP_UnscrewVent,2610,None
+0,/Game/Blueprints/Objects/Vents/BP_UnscrewVent,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Mods/HardMode/Missions/LostAndFound->/Game/Blueprints/Objects/Vents/BP_UnscrewVent,2610,None
+0,/Game/Blueprints/PartsAndServices/PS_Upgrade_And_Test_BP,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/PartsAndServices/PS_Upgrade_And_Test_BP,3604,None
+0,/Game/Blueprints/PartsAndServices/PS_Upgrade_And_Test_BP,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/PartsAndServices/PS_Upgrade_And_Test_BP,3604,None
+0,/Game/Blueprints/Player/Burntrap_Freddy,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/Player/Burntrap_Freddy,3572,None
+0,/Game/Blueprints/Player/Burntrap_Freddy,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/Player/Burntrap_Freddy,3572,None
+0,/Game/Blueprints/Player/CamShakes/ImpactShake_DJMM,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Player/CamShakes/ImpactShake_DJMM,3190,None
+0,/Game/Blueprints/Player/CamShakes/ImpactShake_DJMM,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Player/CamShakes/ImpactShake_DJMM,3190,None
+0,/Game/Blueprints/Player/FBPC_SharedController,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Player/FBPC_SharedController,4001,None
+0,/Game/Blueprints/Player/FBPC_SharedController,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Player/FBPC_SharedController,4001,None
+0,/Game/Blueprints/Player/FirstPersonCharacter,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/Stuff/GigaChase/ModActor->/Game/Blueprints/Player/FirstPersonCharacter,4416,None
+0,/Game/Blueprints/Player/FirstPersonCharacter,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/Stuff/GigaChase/ModActor->/Game/Blueprints/Player/FirstPersonCharacter,4416,None
+0,/Game/Blueprints/Player/Freddy,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/Player/Freddy,5318,None
+0,/Game/Blueprints/Player/Freddy,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/Player/Freddy,5318,None
+0,/Game/Blueprints/Player/Gregory,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/Stuff/AI/Burntrap/Burntrap->/Game/Blueprints/Player/Gregory,7326,None
+0,/Game/Blueprints/Player/Gregory,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/Stuff/AI/Burntrap/Burntrap->/Game/Blueprints/Player/Gregory,7326,None
+0,/Game/Blueprints/Player/JumpscarePawn,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Player/JumpscarePawn,3591,None
+0,/Game/Blueprints/Player/JumpscarePawn,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Player/JumpscarePawn,3591,None
+0,/Game/Blueprints/Player/MainGamePC,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/ModActor->/Game/Blueprints/Player/MainGamePC,3635,None
+0,/Game/Blueprints/Player/MainGamePC,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/ModActor->/Game/Blueprints/Player/MainGamePC,3635,None
+0,/Game/Blueprints/Player/StaminaComponent,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/Player/StaminaComponent,1398,None
+0,/Game/Blueprints/Player/StaminaComponent,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/Player/StaminaComponent,1398,None
+0,/Game/Blueprints/Player/ThrowableObject,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Player/ThrowableObject,2516,None
+0,/Game/Blueprints/Player/ThrowableObject,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Player/ThrowableObject,2516,None
+0,/Game/Blueprints/Player/UI/HUD/WI_Gregory_Clock,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Player/UI/HUD/WI_Gregory_Clock,4318,None
+0,/Game/Blueprints/Player/UI/HUD/WI_Gregory_Clock,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Player/UI/HUD/WI_Gregory_Clock,4318,None
+0,/Game/Blueprints/Player/UI/HUD/WI_Gregory_Stamina,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Player/UI/HUD/WI_Gregory_Stamina,1829,None
+0,/Game/Blueprints/Player/UI/HUD/WI_Gregory_Stamina,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Player/UI/HUD/WI_Gregory_Stamina,1829,None
+0,/Game/Blueprints/Player/UI/UI_Mission,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Player/UI/UI_Mission,2919,None
+0,/Game/Blueprints/Player/UI/UI_Mission,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Player/UI/UI_Mission,2919,None
+0,/Game/Blueprints/PlayerPawn,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/PlayerPawn,6479,None
+0,/Game/Blueprints/PlayerPawn,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/PlayerPawn,6479,None
+0,/Game/Blueprints/Roxy_Racer/CarMechanics/P_GoKart,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Roxy_Racer/CarMechanics/P_GoKart,2512,None
+0,/Game/Blueprints/Roxy_Racer/CarMechanics/P_GoKart,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Roxy_Racer/CarMechanics/P_GoKart,2512,None
+0,/Game/Blueprints/SecurityOffice/Backstage/AI/Freddy/FreddyOffice,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SecurityOffice/Backstage/AI/Freddy/FreddyOffice,2531,None
+0,/Game/Blueprints/SecurityOffice/Backstage/AI/Freddy/FreddyOffice,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SecurityOffice/Backstage/AI/Freddy/FreddyOffice,2531,None
+0,/Game/Blueprints/SecurityOffice/Backstage/AI/Vanny/VannyBackstageSplineBt,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SecurityOffice/Backstage/AI/Vanny/VannyBackstageSplineBt,673,None
+0,/Game/Blueprints/SecurityOffice/Kitchen/AI/ChicaKitchenOfficeBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SecurityOffice/Kitchen/AI/ChicaKitchenOfficeBT,661,None
+0,/Game/Blueprints/SecurityOffice/Kitchen/OGM_Kitchen,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SecurityOffice/Kitchen/OGM_Kitchen,2918,None
+0,/Game/Blueprints/SecurityOffice/Kitchen/OGM_Kitchen,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SecurityOffice/Kitchen/OGM_Kitchen,2918,None
+0,/Game/Blueprints/SecurityOffice/OGM_Backstage,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/Testing/Var_Tester->/Game/Blueprints/SecurityOffice/OGM_Backstage,3605,None
+0,/Game/Blueprints/SecurityOffice/OGM_Backstage,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/Testing/Var_Tester->/Game/Blueprints/SecurityOffice/OGM_Backstage,3605,None
+0,/Game/Blueprints/SecurityOffice/PrizeCounter/OGM_PrizeCounter,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/SecurityOffice/PrizeCounter/OGM_PrizeCounter,2967,None
+0,/Game/Blueprints/SecurityOffice/PrizeCounter/OGM_PrizeCounter,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/SecurityOffice/PrizeCounter/OGM_PrizeCounter,2967,None
+0,/Game/Blueprints/SecurityOffice/PrizeCounter/PrizeCounterBT,BehaviorTree,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Mods/HardMode/Missions/PrizeCounter->/Game/Blueprints/SecurityOffice/PrizeCounter/PrizeCounterBT,651,None
+0,/Game/Blueprints/SecurityOffice/Underground/OGM_Underground,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/ModActor->/Game/Blueprints/SecurityOffice/Underground/OGM_Underground,3178,None
+0,/Game/Blueprints/SecurityOffice/Underground/OGM_Underground,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/ModActor->/Game/Blueprints/SecurityOffice/Underground/OGM_Underground,3178,None
+0,/Game/Blueprints/SecurityOffice/Vanny/OGM_VannyBattle,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SecurityOffice/Vanny/OGM_VannyBattle,3008,None
+0,/Game/Blueprints/SecurityOffice/Vanny/OGM_VannyBattle,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SecurityOffice/Vanny/OGM_VannyBattle,3008,None
+0,/Game/Blueprints/SecurityOffice/WestArcade/DJMusicMan,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SecurityOffice/WestArcade/DJMusicMan,2516,None
+0,/Game/Blueprints/SecurityOffice/WestArcade/DJMusicMan,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SecurityOffice/WestArcade/DJMusicMan,2516,None
+0,/Game/Blueprints/SecurityOffice/WestArcade/SecurityOffice_WestArcade,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SecurityOffice/WestArcade/SecurityOffice_WestArcade,2817,None
+0,/Game/Blueprints/SecurityOffice/WestArcade/SecurityOffice_WestArcade,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SecurityOffice/WestArcade/SecurityOffice_WestArcade,2817,None
+0,/Game/Blueprints/SplinePathing/LMMSplineFollower,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SplinePathing/LMMSplineFollower,2529,None
+0,/Game/Blueprints/SplinePathing/LMMSplineFollower,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SplinePathing/LMMSplineFollower,2529,None
+0,/Game/Blueprints/SplinePathing/LMMSplinePathwayManager,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SplinePathing/LMMSplinePathwayManager,2547,None
+0,/Game/Blueprints/SplinePathing/LMMSplinePathwayManager,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/SplinePathing/LMMSplinePathwayManager,2547,None
+0,/Game/Blueprints/System/Debug/DebugInventoryItem,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/Stuff/Inventory->/Game/Blueprints/System/Debug/DebugInventoryItem,5350,None
+0,/Game/Blueprints/System/Debug/DebugInventoryItem,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/Stuff/Inventory->/Game/Blueprints/System/Debug/DebugInventoryItem,5350,None
+0,/Game/Blueprints/System/Debug/DebugUI,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/ModActor->/Game/Blueprints/System/Debug/DebugUI,2238,None
+0,/Game/Blueprints/System/Debug/DebugUI,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/ModActor->/Game/Blueprints/System/Debug/DebugUI,2238,None
+0,/Game/Blueprints/System/Fog/FogSystem,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/System/Fog/FogSystem,4454,None
+0,/Game/Blueprints/System/Fog/FogSystem,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/System/Fog/FogSystem,4454,None
+0,/Game/Blueprints/System/Fog/FogVolumeInfo,UserDefinedStruct,Soft From Unassigned Package? Best Guess: /Game/Data/FogTable->/Game/Blueprints/System/Fog/FogVolumeInfo,2220,None
+0,/Game/Blueprints/System/LaserTag/LaserTag_GM,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/System/LaserTag/LaserTag_GM,2896,None
+0,/Game/Blueprints/System/LaserTag/LaserTag_GM,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/System/LaserTag/LaserTag_GM,2896,None
+0,/Game/Blueprints/System/Lobby/LostAndFoundManager,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/System/Lobby/LostAndFoundManager,2926,None
+0,/Game/Blueprints/System/Lobby/LostAndFoundManager,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/ModActor->/Game/Blueprints/System/Lobby/LostAndFoundManager,2926,None
+0,/Game/Blueprints/System/MainGameStartupSequence,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/System/MainGameStartupSequence,3685,None
+0,/Game/Blueprints/System/MainGameStartupSequence,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/System/MainGameStartupSequence,3685,None
+0,/Game/Blueprints/System/Time/FNAFTime,UserDefinedStruct,Soft From Unassigned Package? Best Guess: /Game/Blueprints/MissionTriggers/PlaySequenceTrigger_EasterEggKitchen->/Game/Blueprints/System/Time/TimeCheckComponent->/Game/Blueprints/System/Time/FNAFTime,1034,None
+0,/Game/Blueprints/System/Time/TimeCheckComponent,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/MissionTriggers/PlaySequenceTrigger_EasterEggKitchen->/Game/Blueprints/System/Time/TimeCheckComponent,2167,None
+0,/Game/Blueprints/System/Time/TimeCheckComponent,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/MissionTriggers/PlaySequenceTrigger_EasterEggKitchen->/Game/Blueprints/System/Time/TimeCheckComponent,2167,None
+0,/Game/Blueprints/Tasks/Alert/SendAlert,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Tasks/Alert/SendAlert,3414,None
+0,/Game/Blueprints/Tasks/Alert/SendAlert,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Tasks/Alert/SendAlert,3414,None
+0,/Game/Blueprints/UI/FPSUI,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/FPSUI,1779,None
+0,/Game/Blueprints/UI/FPSUI,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/FPSUI,1779,None
+0,/Game/Blueprints/UI/GameOverUI,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/GameOverUI,1794,None
+0,/Game/Blueprints/UI/GameOverUI,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/GameOverUI,1794,None
+0,/Game/Blueprints/UI/LaserTag/WI_Health_Fazerblast,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/LaserTag/WI_Health_Fazerblast,1915,None
+0,/Game/Blueprints/UI/LaserTag/WI_Health_Fazerblast,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/LaserTag/WI_Health_Fazerblast,1915,None
+0,/Game/Blueprints/UI/Loading/LoadingGraphic,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/Loading/LoadingGraphic,1814,None
+0,/Game/Blueprints/UI/Loading/LoadingGraphic,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/Loading/LoadingGraphic,1814,None
+0,/Game/Blueprints/UI/Loading/PizzaHelpy,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/Loading/PizzaHelpy,1802,None
+0,/Game/Blueprints/UI/Loading/PizzaHelpy,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/Loading/PizzaHelpy,1802,None
+0,/Game/Blueprints/UI/OptionsUI,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/OptionsUI,1791,None
+0,/Game/Blueprints/UI/OptionsUI,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/OptionsUI,1791,None
+0,/Game/Blueprints/UI/SaveGameSettings,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/SaveGameSettings,2539,None
+0,/Game/Blueprints/UI/SaveGameSettings,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/SaveGameSettings,2539,None
+0,/Game/Blueprints/UI/SplashScreen/Assets/SBLogo_LogoWithText,Texture2D,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/SplashScreen/Assets/SBLogo_LogoWithText,22371065,None
+0,/Game/Blueprints/UI/SplashScreen/Assets/Steel_Wool_Studios_DeveloperLogo,Texture2D,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/SplashScreen/Assets/Steel_Wool_Studios_DeveloperLogo,5593839,None
+0,/Game/Blueprints/UI/WI_RollingCredits,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/WI_RollingCredits,1815,None
+0,/Game/Blueprints/UI/WI_RollingCredits,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/UI/WI_RollingCredits,1815,None
+0,/Game/Blueprints/Underground/BurntrapHackPointBP,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Underground/BurntrapHackPointBP,2533,None
+0,/Game/Blueprints/Underground/BurntrapHackPointBP,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Underground/BurntrapHackPointBP,2533,None
+0,/Game/Blueprints/Util/DialogueFunctionLibrary,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Util/DialogueFunctionLibrary,3465,None
+0,/Game/Blueprints/Util/DialogueFunctionLibrary,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Util/DialogueFunctionLibrary,3465,None
+0,/Game/Blueprints/VannyDistortionActor,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/VannyDistortionActor,3709,None
+0,/Game/Blueprints/VannyDistortionActor,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/VannyDistortionActor,3709,None
+0,/Game/Blueprints/Warehouse/PRE_BadgeHolder_Warehouse,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Warehouse/PRE_BadgeHolder_Warehouse,3924,None
+0,/Game/Blueprints/Warehouse/PRE_BadgeHolder_Warehouse,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Blueprints/Warehouse/PRE_BadgeHolder_Warehouse,3924,None
+0,/Game/Cinematics/CinematicActors/Cinematic_Actor_LMM,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Cinematics/CinematicActors/Cinematic_Actor_LMM,2537,None
+0,/Game/Cinematics/CinematicActors/Cinematic_Actor_LMM,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Cinematics/CinematicActors/Cinematic_Actor_LMM,2537,None
+0,/Game/Cinematics/CinematicActors/Cinematic_Actor_Mapbot,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Cinematics/CinematicActors/Cinematic_Actor_Mapbot,2546,None
+0,/Game/Cinematics/CinematicActors/Cinematic_Actor_Mapbot,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Cinematics/CinematicActors/Cinematic_Actor_Mapbot,2546,None
+0,/Game/Data/AI/AIDataParams,UserDefinedStruct,Soft From Unassigned Package? Best Guess: /Game/Data/AI/AIDataParams_Table->/Game/Data/AI/AIDataParams,2112,None
+0,/Game/Data/AI/AIDataParams_Table,DataTable,Soft From Unassigned Package? Best Guess: /Game/Data/AI/AIDataParams_Table,5303,None
+0,/Game/Data/FogTable,DataTable,Soft From Unassigned Package? Best Guess: /Game/Data/FogTable,29432,None
+0,/Game/Data/Localizations/Loc_EmployeeMessages,StringTable,Soft From Unassigned Package? Best Guess: /Game/Data/Localizations/Loc_EmployeeMessages,28804,None
+0,/Game/Materials/Blue,Material,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/Stuff/MeasuringStick->/Game/Materials/Blue,30046,None
+0,/Game/Materials/M_Debug_XRay,Material,Soft From Unassigned Package? Best Guess: /Game/Materials/M_Debug_XRay,30062,None
+0,/Game/Materials/PowerMat,Material,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/Stuff/Box->/Game/Materials/PowerMat,30681,None
+0,/Game/Materials/Purple,Material,Soft From Unassigned Package? Best Guess: /Game/Materials/Purple,30050,None
+0,/Game/Materials/Test_Mat,Material,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/Stuff/Box->/Game/Materials/Test_Mat,30681,None
+0,/Game/Model_Assets/Chars/Freddy/RIG_Glamrock_Freddy,Skeleton,Soft From Unassigned Package? Best Guess: /Game/Animations/BurnTrap/Burntrap_Death->/Game/Model_Assets/Chars/Freddy/RIG_Glamrock_Freddy,7127,None
+0,/Game/Model_Assets/Chars/Freddy/SK_Mannequin_PhysicsAsset,PhysicsAsset,Soft From Unassigned Package? Best Guess: /Game/Model_Assets/Chars/Freddy/SK_Mannequin_PhysicsAsset,736,None
+0,/Game/Model_Assets/Chars/Prizebox/MOD_BoingyBox_Lid,StaticMesh,Soft From Unassigned Package? Best Guess: /Game/Mods/Liddyverse/ModDataAssetLabel_4->/Game/Mods/Liddyverse/ModActor->/Game/Mods/Liddyverse/Content/Lid->/Game/Model_Assets/Chars/Prizebox/MOD_BoingyBox_Lid,7777,None
+0,/Game/Model_Assets/SetsPRE/PRE_MOD_BowlingBall,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Model_Assets/SetsPRE/PRE_MOD_BowlingBall,2531,None
+0,/Game/Model_Assets/SetsPRE/PRE_MOD_BowlingBall,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Model_Assets/SetsPRE/PRE_MOD_BowlingBall,2531,None
+64,/Game/Mods/Cableframe/ModActor,Blueprint,Hard,10199,None
+64,/Game/Mods/Cableframe/ModActor,BlueprintGeneratedClass,Hard,10199,None
+64,/Game/Mods/Cableframe/Widgets/Menu_Fog,WidgetBlueprint,Hard,25778,None
+64,/Game/Mods/Cableframe/Widgets/Menu_Fog,WidgetBlueprintGeneratedClass,Hard,25778,None
+64,/Game/Mods/Cableframe/Widgets/Menu_Scale,WidgetBlueprint,Hard,30091,None
+64,/Game/Mods/Cableframe/Widgets/Menu_Scale,WidgetBlueprintGeneratedClass,Hard,30091,None
+64,/Game/Mods/Cableframe/Widgets/Menu_Teleport,WidgetBlueprint,Hard,33233,None
+64,/Game/Mods/Cableframe/Widgets/Menu_Teleport,WidgetBlueprintGeneratedClass,Hard,33233,None
+32,/Game/Mods/HardMode/AI/PatrolActor,Blueprint,Hard,11071,None
+32,/Game/Mods/HardMode/AI/PatrolActor,BlueprintGeneratedClass,Hard,11071,None
+32,/Game/Mods/HardMode/Barriers/Door,Blueprint,Hard,3766,None
+32,/Game/Mods/HardMode/Barriers/Door,BlueprintGeneratedClass,Hard,3766,None
+32,/Game/Mods/HardMode/Barriers/Screen,Blueprint,Hard,3682,None
+32,/Game/Mods/HardMode/Barriers/Screen,BlueprintGeneratedClass,Hard,3682,None
+32,/Game/Mods/HardMode/Missions/Daycare,Blueprint,Hard,10100,None
+32,/Game/Mods/HardMode/Missions/Daycare,BlueprintGeneratedClass,Hard,10100,None
+32,/Game/Mods/HardMode/Missions/LostAndFound,Blueprint,Hard,9351,None
+32,/Game/Mods/HardMode/Missions/LostAndFound,BlueprintGeneratedClass,Hard,9351,None
+32,/Game/Mods/HardMode/Missions/PrizeCounter,Blueprint,Hard,5753,None
+32,/Game/Mods/HardMode/Missions/PrizeCounter,BlueprintGeneratedClass,Hard,5753,None
+32,/Game/Mods/HardMode/Missions/Triggers/Trigger_2am,Blueprint,Hard,8181,None
+32,/Game/Mods/HardMode/Missions/Triggers/Trigger_2am,BlueprintGeneratedClass,Hard,8181,None
+32,/Game/Mods/HardMode/ModActor,Blueprint,Hard,38020,None
+32,/Game/Mods/HardMode/ModActor,BlueprintGeneratedClass,Hard,38020,None
+32,/Game/Mods/HardMode/Testing/Var_Tester,WidgetBlueprint,Hard,9420,None
+32,/Game/Mods/HardMode/Testing/Var_Tester,WidgetBlueprintGeneratedClass,Hard,9420,None
+80,/Game/Mods/Liddyverse/Content/Lid,Blueprint,Hard,7504,None
+80,/Game/Mods/Liddyverse/Content/Lid,BlueprintGeneratedClass,Hard,7504,None
+80,/Game/Mods/Liddyverse/Content/LiddySave,Blueprint,Hard,1371,None
+80,/Game/Mods/Liddyverse/Content/LiddySave,BlueprintGeneratedClass,Hard,1371,None
+80,/Game/Mods/Liddyverse/Content/Notblanana,Texture2D,Hard,46024,None
+80,/Game/Mods/Liddyverse/Content/Settings,WidgetBlueprint,Hard,29172,None
+80,/Game/Mods/Liddyverse/Content/Settings,WidgetBlueprintGeneratedClass,Hard,29172,None
+80,/Game/Mods/Liddyverse/ModActor,Blueprint,Hard,15996,None
+80,/Game/Mods/Liddyverse/ModActor,BlueprintGeneratedClass,Hard,15996,None
+48,/Game/Mods/Markers/ModActor,Blueprint,Hard,12844,None
+48,/Game/Mods/Markers/ModActor,BlueprintGeneratedClass,Hard,12844,None
+48,/Game/Mods/Markers/Stuff/Confirm_Delete,WidgetBlueprint,Hard,20383,None
+48,/Game/Mods/Markers/Stuff/Confirm_Delete,WidgetBlueprintGeneratedClass,Hard,20383,None
+48,/Game/Mods/Markers/Stuff/Functions,Blueprint,Hard,5164,None
+48,/Game/Mods/Markers/Stuff/Functions,BlueprintGeneratedClass,Hard,5164,None
+48,/Game/Mods/Markers/Stuff/Marker_Blue,Blueprint,Hard,4765,None
+48,/Game/Mods/Markers/Stuff/Marker_Blue,BlueprintGeneratedClass,Hard,4765,None
+48,/Game/Mods/Markers/Stuff/Marker_Green,Blueprint,Hard,4770,None
+48,/Game/Mods/Markers/Stuff/Marker_Green,BlueprintGeneratedClass,Hard,4770,None
+48,/Game/Mods/Markers/Stuff/Marker_Red,Blueprint,Hard,4752,None
+48,/Game/Mods/Markers/Stuff/Marker_Red,BlueprintGeneratedClass,Hard,4752,None
+48,/Game/Mods/Markers/Stuff/Marker_Save,Blueprint,Hard,1513,None
+48,/Game/Mods/Markers/Stuff/Marker_Save,BlueprintGeneratedClass,Hard,1513,None
+48,/Game/Mods/Markers/Stuff/Marker_UI,WidgetBlueprint,Hard,44509,None
+48,/Game/Mods/Markers/Stuff/Marker_UI,WidgetBlueprintGeneratedClass,Hard,44509,None
+16,/Game/Mods/Test/ModActor,Blueprint,Hard,8244,None
+16,/Game/Mods/Test/ModActor,BlueprintGeneratedClass,Hard,8244,None
+16,/Game/Mods/Test/Stuff/AI/Alert/Alert_BB,BlackboardData,Hard,1873,None
+16,/Game/Mods/Test/Stuff/AI/Alert/Alert_BT,BehaviorTree,Hard,4806,None
+16,/Game/Mods/Test/Stuff/AI/Burntrap/Burntrap,Blueprint,Hard,7475,None
+16,/Game/Mods/Test/Stuff/AI/Burntrap/Burntrap,BlueprintGeneratedClass,Hard,7475,None
+16,/Game/Mods/Test/Stuff/AI/Burntrap/Burntrap_2,Blueprint,Hard,20174,None
+16,/Game/Mods/Test/Stuff/AI/Burntrap/Burntrap_2,BlueprintGeneratedClass,Hard,20174,None
+16,/Game/Mods/Test/Stuff/AI/Burntrap/Burntrap_3,Blueprint,Hard,15383,None
+16,/Game/Mods/Test/Stuff/AI/Burntrap/Burntrap_3,BlueprintGeneratedClass,Hard,15383,None
+16,/Game/Mods/Test/Stuff/AI/Burntrap/Burntrap_4,Blueprint,Hard,18352,None
+16,/Game/Mods/Test/Stuff/AI/Burntrap/Burntrap_4,BlueprintGeneratedClass,Hard,18352,None
+16,/Game/Mods/Test/Stuff/AI/TwitchControl,Blueprint,Hard,21628,None
+16,/Game/Mods/Test/Stuff/AI/TwitchControl,BlueprintGeneratedClass,Hard,21628,None
+16,/Game/Mods/Test/Stuff/AI/U_PatrolActor,Blueprint,Hard,11081,None
+16,/Game/Mods/Test/Stuff/AI/U_PatrolActor,BlueprintGeneratedClass,Hard,11081,None
+16,/Game/Mods/Test/Stuff/Box,Blueprint,Hard,5267,None
+16,/Game/Mods/Test/Stuff/Box,BlueprintGeneratedClass,Hard,5267,None
+16,/Game/Mods/Test/Stuff/GigaChase/Actors/Spawner,Blueprint,Hard,9495,None
+16,/Game/Mods/Test/Stuff/GigaChase/Actors/Spawner,BlueprintGeneratedClass,Hard,9495,None
+16,/Game/Mods/Test/Stuff/GigaChase/AI/Alert_BT,BehaviorTree,Hard,2698,None
+16,/Game/Mods/Test/Stuff/GigaChase/GigaSave,Blueprint,Hard,1153,None
+16,/Game/Mods/Test/Stuff/GigaChase/GigaSave,BlueprintGeneratedClass,Hard,1153,None
+16,/Game/Mods/Test/Stuff/GigaChase/ModActor,Blueprint,Hard,11856,None
+16,/Game/Mods/Test/Stuff/GigaChase/ModActor,BlueprintGeneratedClass,Hard,11856,None
+16,/Game/Mods/Test/Stuff/GigaChase/UI/Start,WidgetBlueprint,Hard,13143,None
+16,/Game/Mods/Test/Stuff/GigaChase/UI/Start,WidgetBlueprintGeneratedClass,Hard,13143,None
+16,/Game/Mods/Test/Stuff/GigaChase/UI/Timer,WidgetBlueprint,Hard,3412,None
+16,/Game/Mods/Test/Stuff/GigaChase/UI/Timer,WidgetBlueprintGeneratedClass,Hard,3412,None
+16,/Game/Mods/Test/Stuff/Gun/Bullet,Blueprint,Hard,6206,None
+16,/Game/Mods/Test/Stuff/Gun/Bullet,BlueprintGeneratedClass,Hard,6206,None
+16,/Game/Mods/Test/Stuff/Gun/Gun,Blueprint,Hard,11014,None
+16,/Game/Mods/Test/Stuff/Gun/Gun,BlueprintGeneratedClass,Hard,11014,None
+16,/Game/Mods/Test/Stuff/Inventory,Blueprint,Hard,12190,None
+16,/Game/Mods/Test/Stuff/Inventory,BlueprintGeneratedClass,Hard,12190,None
+16,/Game/Mods/Test/Stuff/MapTester,WidgetBlueprint,Hard,10067,None
+16,/Game/Mods/Test/Stuff/MapTester,WidgetBlueprintGeneratedClass,Hard,10067,None
+16,/Game/Mods/Test/Stuff/Mat,Material,Hard,30677,None
+16,/Game/Mods/Test/Stuff/MeasuringStick,Blueprint,Hard,13881,None
+16,/Game/Mods/Test/Stuff/MeasuringStick,BlueprintGeneratedClass,Hard,13881,None
+16,/Game/Mods/Test/Stuff/NewBlueprint,Blueprint,Hard,3797,None
+16,/Game/Mods/Test/Stuff/NewBlueprint,BlueprintGeneratedClass,Hard,3797,None
+16,/Game/Mods/Test/Stuff/Test,Blueprint,Hard,4009,None
+16,/Game/Mods/Test/Stuff/Test,BlueprintGeneratedClass,Hard,4009,None
+16,/Game/Mods/Test/Stuff/Thow,Blueprint,Hard,10833,None
+16,/Game/Mods/Test/Stuff/Thow,BlueprintGeneratedClass,Hard,10833,None
+16,/Game/Mods/Test/Stuff/U_Door,Blueprint,Hard,3765,None
+16,/Game/Mods/Test/Stuff/U_Door,BlueprintGeneratedClass,Hard,3765,None
+16,/Game/Mods/Test/Stuff/untitled,SoundWave,Hard,21318,None
+0,/Game/ShadingAssets/Materials/DBG_AIPawnVis,Material,Soft From Unassigned Package? Best Guess: /Game/Mods/Markers/Stuff/Confirm_Delete->/Game/Mods/Markers/Stuff/Marker_Red->/Game/ShadingAssets/Materials/DBG_AIPawnVis,30078,None
+0,/Game/ShadingAssets/Materials/DBG_AIPawnVis_Blue,Material,Soft From Unassigned Package? Best Guess: /Game/Mods/Markers/Stuff/Confirm_Delete->/Game/Mods/Markers/Stuff/Marker_Blue->/Game/ShadingAssets/Materials/DBG_AIPawnVis_Blue,30088,None
+0,/Game/ShadingAssets/Materials/DBG_AIPawnVis_Green,Material,Soft From Unassigned Package? Best Guess: /Game/Mods/Markers/Stuff/Confirm_Delete->/Game/Mods/Markers/Stuff/Marker_Green->/Game/ShadingAssets/Materials/DBG_AIPawnVis_Green,30090,None
+0,/Game/ShadingAssets/Materials/Jim,Material,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MAT_Playground_Walls_Red->/Game/ShadingAssets/Materials/Jim,31412,None
+0,/Game/ShadingAssets/Materials/M_Neon,Material,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/Stuff/MeasuringStick->/Game/ShadingAssets/Materials/M_Neon,30064,None
+0,/Game/ShadingAssets/Materials/M_WhitePaint,Material,Soft From Unassigned Package? Best Guess: /Game/Mods/HardMode/ModDataAssetLabel_3->/Game/Mods/HardMode/Barriers/Screen->/Game/ShadingAssets/Materials/M_WhitePaint,51851,None
+0,/Game/ShadingAssets/Materials/M_Wood_Floor,Material,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/M_Wood_Floor,30329,None
+0,/Game/ShadingAssets/Materials/MAT_MoonManDistortion1,Material,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MAT_MoonManDistortion1,6365,None
+0,/Game/ShadingAssets/Materials/MAT_MoonManDistortion_Inst,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MAT_MoonManDistortion_Inst,13422,None
+0,/Game/ShadingAssets/Materials/MAT_Playground_Walls,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MAT_Playground_Walls,1104,None
+0,/Game/ShadingAssets/Materials/MAT_Playground_Walls_Holes,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MAT_Playground_Walls_Holes,1116,None
+0,/Game/ShadingAssets/Materials/MAT_Playground_Walls_Holes_GreenandOrange,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MAT_Playground_Walls_Holes_GreenandOrange,1146,None
+0,/Game/ShadingAssets/Materials/MAT_Playground_Walls_Holes_Orange,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MAT_Playground_Walls_Holes_Orange,1130,None
+0,/Game/ShadingAssets/Materials/MAT_Playground_Walls_Holes_Red,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MAT_Playground_Walls_Holes_Red,1124,None
+0,/Game/ShadingAssets/Materials/MAT_Playground_Walls_Holes_RedandBlue,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MAT_Playground_Walls_Holes_RedandBlue,1138,None
+0,/Game/ShadingAssets/Materials/MAT_Playground_Walls_Orange,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MAT_Playground_Walls_Orange,1118,None
+0,/Game/ShadingAssets/Materials/MAT_Playground_Walls_Red,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MAT_Playground_Walls_Red,1112,None
+0,/Game/ShadingAssets/Materials/MAT_PrizeBox_00,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/Mods/Liddyverse/ModDataAssetLabel_4->/Game/Mods/Liddyverse/ModActor->/Game/Mods/Liddyverse/Content/Lid->/Game/ShadingAssets/Materials/MAT_PrizeBox_00,2648,None
+0,/Game/ShadingAssets/Materials/MAT_PrizeBox_01,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/Mods/Liddyverse/ModDataAssetLabel_4->/Game/Mods/Liddyverse/ModActor->/Game/Mods/Liddyverse/Content/Lid->/Game/ShadingAssets/Materials/MAT_PrizeBox_01,2648,None
+0,/Game/ShadingAssets/Materials/MAT_PrizeBox_02,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/Mods/Liddyverse/ModDataAssetLabel_4->/Game/Mods/Liddyverse/ModActor->/Game/Mods/Liddyverse/Content/Lid->/Game/ShadingAssets/Materials/MAT_PrizeBox_02,2648,None
+0,/Game/ShadingAssets/Materials/MAT_PrizeBox_03,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/Mods/Liddyverse/ModDataAssetLabel_4->/Game/Mods/Liddyverse/ModActor->/Game/Mods/Liddyverse/Content/Lid->/Game/ShadingAssets/Materials/MAT_PrizeBox_03,2648,None
+0,/Game/ShadingAssets/Materials/MAT_PrizeBox_04,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/Mods/Liddyverse/ModDataAssetLabel_4->/Game/Mods/Liddyverse/ModActor->/Game/Mods/Liddyverse/Content/Lid->/Game/ShadingAssets/Materials/MAT_PrizeBox_04,2648,None
+0,/Game/ShadingAssets/Materials/MAT_PrizeBox_05,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/Mods/Liddyverse/ModDataAssetLabel_4->/Game/Mods/Liddyverse/ModActor->/Game/Mods/Liddyverse/Content/Lid->/Game/ShadingAssets/Materials/MAT_PrizeBox_05,2648,None
+0,/Game/ShadingAssets/Materials/MAT_PrizeBox_06,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/Mods/Liddyverse/ModDataAssetLabel_4->/Game/Mods/Liddyverse/ModActor->/Game/Mods/Liddyverse/Content/Lid->/Game/ShadingAssets/Materials/MAT_PrizeBox_06,2648,None
+0,/Game/ShadingAssets/Materials/MAT_PrizeBox_Golden,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/Mods/Liddyverse/ModDataAssetLabel_4->/Game/Mods/Liddyverse/ModActor->/Game/Mods/Liddyverse/Content/Lid->/Game/ShadingAssets/Materials/MAT_PrizeBox_Golden,2656,None
+0,/Game/ShadingAssets/Materials/MAT_VannyDistortion,Material,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MAT_VannyDistortion,6359,None
+0,/Game/ShadingAssets/Materials/MAT_VannyDistortion_Instance,MaterialInstanceConstant,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MAT_VannyDistortion_Instance,14053,None
+0,/Game/ShadingAssets/Materials/MI_Mirror,Material,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MI_Mirror,30070,None
+0,/Game/ShadingAssets/Materials/MWood,Material,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Materials/MWood,30315,None
+0,/Game/ShadingAssets/Textures/T_CommonPlastiglassStars01,Texture2D,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Textures/T_CommonPlastiglassStars01,700412,None
+0,/Game/ShadingAssets/Textures/T_gradient_D,Texture2D,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Textures/T_gradient_D,44952,None
+0,/Game/ShadingAssets/Textures/T_Noise_11,Texture2D,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Textures/T_Noise_11,2797562,None
+0,/Game/ShadingAssets/Textures/T_Noise_6,Texture2D,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Textures/T_Noise_6,2797562,None
+0,/Game/ShadingAssets/Textures/TEX_Castle_Playarea_Short_Normal,Texture2D,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Textures/TEX_Castle_Playarea_Short_Normal,2797612,None
+0,/Game/ShadingAssets/Textures/TEX_Castle_Playarea_Tall_Normal,Texture2D,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Textures/TEX_Castle_Playarea_Tall_Normal,2797610,None
+0,/Game/ShadingAssets/Textures/TEX_Gregory_Body_BaseColor,Texture2D,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Textures/TEX_Gregory_Body_BaseColor,2797600,None
+0,/Game/ShadingAssets/Textures/TEX_Gregory_BodyNormal,Texture2D,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Textures/TEX_Gregory_BodyNormal,5594127,None
+0,/Game/ShadingAssets/Textures/TEX_Monty_Body_BaseColor,Texture2D,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Textures/TEX_Monty_Body_BaseColor,11186240,None
+0,/Game/ShadingAssets/Textures/TEX_SecurityFlashlight_BaseColor,Texture2D,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Textures/TEX_SecurityFlashlight_BaseColor,2797612,None
+0,/Game/ShadingAssets/Textures/txt_fx_screen_band,Texture2D,Soft From Unassigned Package? Best Guess: /Game/ShadingAssets/Textures/txt_fx_screen_band,3932,None
+0,/Game/Tests/AITestHelpers/AutomatedPlayer/AutomatedPlayer,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Tests/AITestHelpers/AutomatedPlayer/AutomatedPlayer,6480,None
+0,/Game/Tests/AITestHelpers/AutomatedPlayer/AutomatedPlayer,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Tests/AITestHelpers/AutomatedPlayer/AutomatedPlayer,6480,None
+0,/Game/Tests/Maps/ItemTumblerTest/ItemTumblerViewer,WidgetBlueprint,Soft From Unassigned Package? Best Guess: /Game/Tests/Maps/ItemTumblerTest/ItemTumblerViewer,1828,None
+0,/Game/Tests/Maps/ItemTumblerTest/ItemTumblerViewer,WidgetBlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Tests/Maps/ItemTumblerTest/ItemTumblerViewer,1828,None
+0,/Game/Textures/Icons/FazWatch/ItemIcons_2D/TEX_KeyItem_Admission_Pass,Texture2D,Soft From Unassigned Package? Best Guess: /Game/Textures/Icons/FazWatch/ItemIcons_2D/TEX_KeyItem_Admission_Pass,176102,None
+0,/Game/Textures/Icons/FazWatch/ItemIcons_2D/TEX_KeyItem_Hoodie,Texture2D,Soft From Unassigned Package? Best Guess: /Game/Textures/Icons/FazWatch/ItemIcons_2D/TEX_KeyItem_Hoodie,350862,None
+0,/Game/Textures/Icons/FazWatch/ItemIcons_3D/512Variant/TEX_KeyItem_Flashlight_512,Texture2D,Soft From Unassigned Package? Best Guess: /Game/Textures/Icons/FazWatch/ItemIcons_3D/512Variant/TEX_KeyItem_Flashlight_512,350881,None
+0,/Game/Textures/Icons/FazWatch/ItemIcons_3D/512Variant/TEX_KeyItem_FlashlightUpgrade_512,Texture2D,Soft From Unassigned Package? Best Guess: /Game/Textures/Icons/FazWatch/ItemIcons_3D/512Variant/TEX_KeyItem_FlashlightUpgrade_512,350895,None
+0,/Game/Textures/Icons/FazWatch/ItemIcons_3D/512Variant/TEX_KeyItem_Sweater_02_512,Texture2D,Soft From Unassigned Package? Best Guess: /Game/Textures/Icons/FazWatch/ItemIcons_3D/512Variant/TEX_KeyItem_Sweater_02_512,350881,None
+0,/Game/Textures/Icons/FazWatch/ItemIcons_3D/512Variant/TEX_KeyItem_Sweater_04_512,Texture2D,Soft From Unassigned Package? Best Guess: /Game/Textures/Icons/FazWatch/ItemIcons_3D/512Variant/TEX_KeyItem_Sweater_04_512,350881,None
+0,/Game/Textures/Icons/FazWatch/ItemIcons_3D/512Variant/TEX_KeyItem_Sweater_07_512,Texture2D,Soft From Unassigned Package? Best Guess: /Game/Textures/Icons/FazWatch/ItemIcons_3D/512Variant/TEX_KeyItem_Sweater_07_512,350881,None
+0,/Game/Textures/Icons/FazWatch/ItemIcons_3D/512Variant/TEX_KeyItem_Sweater_09_512,Texture2D,Soft From Unassigned Package? Best Guess: /Game/Textures/Icons/FazWatch/ItemIcons_3D/512Variant/TEX_KeyItem_Sweater_09_512,350881,None
+0,/Game/Textures/Icons/FazWatch/ItemIcons_3D/TEX_KeyItem_Fizzyfaz_Chica,Texture2D,Soft From Unassigned Package? Best Guess: /Game/Textures/Icons/FazWatch/ItemIcons_3D/TEX_KeyItem_Fizzyfaz_Chica,267325,None
+0,/Game/Textures/Icons/FazWatch/ItemIcons_3D/TEX_KeyItem_Fizzyfaz_Freddy,Texture2D,Soft From Unassigned Package? Best Guess: /Game/Textures/Icons/FazWatch/ItemIcons_3D/TEX_KeyItem_Fizzyfaz_Freddy,267327,None
+0,/Game/Textures/Icons/FazWatch/ItemIcons_3D/TEX_KeyItem_Fizzyfaz_Monty,Texture2D,Soft From Unassigned Package? Best Guess: /Game/Textures/Icons/FazWatch/ItemIcons_3D/TEX_KeyItem_Fizzyfaz_Monty,267325,None
+0,/Game/Textures/Icons/FazWatch/ItemIcons_3D/TEX_KeyItem_Fizzyfaz_Roxy,Texture2D,Soft From Unassigned Package? Best Guess: /Game/Textures/Icons/FazWatch/ItemIcons_3D/TEX_KeyItem_Fizzyfaz_Roxy,267323,None
+0,/Game/UpdateGameTimeComponent,Blueprint,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/ModActor->/Game/UpdateGameTimeComponent,2195,None
+0,/Game/UpdateGameTimeComponent,BlueprintGeneratedClass,Soft From Unassigned Package? Best Guess: /Game/Mods/Test/ModDataAssetLabel->/Game/Mods/Test/ModActor->/Game/UpdateGameTimeComponent,2195,None
+0,/MagicLeapPassableWorld/MagicLeapARPinInfoActor,Blueprint,Hard,28477,None
+0,/MagicLeapPassableWorld/MagicLeapARPinInfoActor,BlueprintGeneratedClass,Hard,28477,None
+0,/OculusVR/Materials/OculusMR_ChromaKey,Material,Hard,27219,None
+0,/OculusVR/Materials/OculusMR_OpaqueColoredMaterial,Material,Hard,6652,None
+0,/OculusVR/Materials/PokeAHoleMaterial,Material,Hard,18829,None
+0,/OculusVR/Materials/touchController_mat,Material,Hard,60608,None
+0,/OculusVR/Materials/TouchForQuestRiftSControllerMaterial,Material,Hard,31177,None
+0,/OculusVR/Meshes/LeftTouchController,StaticMesh,Hard,1153366,None
+0,/OculusVR/Meshes/LeftTouchForQuestRiftSController,StaticMesh,Hard,339125,None
+0,/OculusVR/Meshes/RiftHMD,StaticMesh,Hard,67339,None
+0,/OculusVR/Meshes/RightTouchController,StaticMesh,Hard,1165108,None
+0,/OculusVR/Meshes/RightTouchForQuestRiftSController,StaticMesh,Hard,336091,None
+0,/OculusVR/Textures/touchController_albedo,Texture2D,Hard,5593798,None
+0,/OculusVR/Textures/touchController_controlmap,Texture2D,Hard,350914,None
+0,/OculusVR/Textures/TouchForQuestRiftSController_albedo,Texture2D,Hard,5593824,None
+0,/OpenXR/Devices/GoogleDaydream/BaseTexture,Texture2D,Hard,176120,None
+0,/OpenXR/Devices/GoogleDaydream/GoogleDaydreamController,StaticMesh,Hard,36947,None
+0,/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream,MaterialInstanceConstant,Hard,35452,None
+0,/OpenXR/Devices/GoogleDaydream/MRTexture,Texture2D,Hard,176056,None
+0,/OpenXR/Devices/HTCVive/BaseTexture,Texture2D,Hard,2797565,None
+0,/OpenXR/Devices/HTCVive/HTCViveController,StaticMesh,Hard,1807325,None
+0,/OpenXR/Devices/HTCVive/MI_HTCVive,MaterialInstanceConstant,Hard,3114,None
+0,/OpenXR/Devices/M_XRController,Material,Hard,34688,None
+0,/OpenXR/Devices/MicrosoftMixedReality/BaseTexture,Texture2D,Hard,700391,None
+0,/OpenXR/Devices/MicrosoftMixedReality/EmissiveTexture,Texture2D,Hard,700399,None
+0,/OpenXR/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController,StaticMesh,Hard,537614,None
+0,/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality,MaterialInstanceConstant,Hard,36398,None
+0,/OpenXR/Devices/MicrosoftMixedReality/MRTexture,Texture2D,Hard,700387,None
+0,/OpenXR/Devices/MicrosoftMixedReality/NormalTexture,Texture2D,Hard,1399778,None
+0,/OpenXR/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController,StaticMesh,Hard,537670,None
+0,/OpenXR/Devices/OculusGo/BaseTexture,Texture2D,Hard,700378,None
+0,/OpenXR/Devices/OculusGo/MI_OculusGo,MaterialInstanceConstant,Hard,3118,None
+0,/OpenXR/Devices/OculusGo/OculusGoController,StaticMesh,Hard,520980,None
+0,/OpenXR/Devices/OculusTouch/BaseTexture,Texture2D,Hard,2797569,None
+0,/OpenXR/Devices/OculusTouch/Left/left_OculusTouchController,StaticMesh,Hard,1102745,None
+0,/OpenXR/Devices/OculusTouch/MI_OculusTouch,MaterialInstanceConstant,Hard,35536,None
+0,/OpenXR/Devices/OculusTouch/MRTexture,Texture2D,Hard,700377,None
+0,/OpenXR/Devices/OculusTouch/Right/right_OculusTouchController,StaticMesh,Hard,1115354,None
+0,/OpenXR/Devices/OculusTouch_v2/BaseTexture,Texture2D,Hard,2797572,None
+0,/OpenXR/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller,StaticMesh,Hard,338027,None
+0,/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2,MaterialInstanceConstant,Hard,35551,None
+0,/OpenXR/Devices/OculusTouch_v2/MRTexture,Texture2D,Hard,2797568,None
+0,/OpenXR/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller,StaticMesh,Hard,339348,None
+0,/OpenXR/Devices/OculusTouch_v3/BaseTexture,Texture2D,Hard,176060,None
+0,/OpenXR/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller,StaticMesh,Hard,570357,None
+0,/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3,MaterialInstanceConstant,Hard,35551,None
+0,/OpenXR/Devices/OculusTouch_v3/MRTexture,Texture2D,Hard,176056,None
+0,/OpenXR/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller,StaticMesh,Hard,570534,None
+0,/OpenXR/Devices/ValveIndex/BaseTexture,Texture2D,Hard,2797568,None
+0,/OpenXR/Devices/ValveIndex/Left/left_ValveIndexController,StaticMesh,Hard,862652,None
+0,/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex,MaterialInstanceConstant,Hard,35546,None
+0,/OpenXR/Devices/ValveIndex/MRTexture,Texture2D,Hard,2797564,None
+0,/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex,MaterialInstanceConstant,Hard,35928,None
+0,/OpenXR/Devices/ValveIndex/Right/right_ValveIndexController,StaticMesh,Hard,860045,None
+0,/Paper2D/DefaultPaperTerrainMaterial,PaperTerrainMaterial,Hard,1452,None
+0,/Paper2D/DefaultSpriteMaterial,Material,Hard,109738,None
+0,/Paper2D/DummySprite,PaperSprite,Hard,2936,None
+0,/Paper2D/MaskedUnlitSpriteMaterial,MaterialInstanceConstant,Hard,2409,None
+0,/Paper2D/OpaqueUnlitSpriteMaterial,MaterialInstanceConstant,Hard,44052,None
+0,/Paper2D/PlaceholderTextures/DummySpriteTexture,Texture2D,Hard,23096,None
+0,/SpeedTreeImporter/SpeedTree9/Empty,Texture2D,Hard,1067,None
+0,/SpeedTreeImporter/SpeedTree9/EmptyNormal,Texture2D,Hard,1251,None
+0,/SpeedTreeImporter/SpeedTree9/game_wind_noise,Texture2D,Hard,5593957,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboard,MaterialFunction,Hard,767,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster,Material,Hard,184547,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeBranchMotion,MaterialFunction,Hard,773,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeCameraFacing,MaterialFunction,Hard,845,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster,Material,Hard,259441,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeWind,MaterialFunction,Hard,829,None
+0,/SpeedTreeImporter/SpeedTree9/SpeedTreeWindMotion,MaterialFunction,Hard,934,None
+0,/SpeedTreeImporter/SpeedTree9/UnpackDirection,MaterialFunction,Hard,833,None
+0,/SpeedTreeImporter/SpeedTree9/UnpackInteger3,MaterialFunction,Hard,759,None
