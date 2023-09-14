@@ -1,9 +1,0 @@
-J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\HardMode\AI\PatrolActor
-J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\HardMode\Barriers\Door
-J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\HardMode\Barriers\Screen
-J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\HardMode\Missions\Daycare
-J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\HardMode\Missions\LostAndFound
-J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\HardMode\Missions\PrizeCounter
-J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\HardMode\Missions\Triggers\Trigger_2am
-J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\HardMode\ModActor
-J:\Github\FNaF-SB-Modding-Template\Saved\Cooked\WindowsNoEditor\fnaf9\Content\Mods\HardMode\Testing\Var_Tester
