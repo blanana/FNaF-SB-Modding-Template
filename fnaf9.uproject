@@ -2,11 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "DiscordRpc",
-			"Enabled": true
-		}
-	]
+	"Description": ""
 }
