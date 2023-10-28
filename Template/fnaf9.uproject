@@ -158,6 +158,14 @@
 		{
 			"Name": "MfMedia",
 			"Enabled": true
+		},
+		{
+			"Name": "DatasmithGLTFImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "GLTFImporter",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
